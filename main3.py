@@ -1,0 +1,20 @@
+A = int(5)
+B = float(5.5)
+C = complex(5.0)
+D = ("Това е променлива тип ТЕКСТ")
+E = ["Име", "години", 1]
+F = ("Име", "години", 1)
+G1 = range(2,10,3)
+G2 = range(4)
+G3 = range(2,5)
+H = {"Italy": "Rome", "England": "London"}
+
+print(A)
+print(B)
+print(C)
+print(D)
+print(E)
+print(list(G1))
+print(list(G2))
+print(list(G3))
+print(H)
