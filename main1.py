@@ -1,0 +1,7 @@
+number = -5.5
+counter = 10
+string = "Python"
+
+print(number)
+print(counter)
+print(string)
